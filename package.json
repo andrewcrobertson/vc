@@ -1,0 +1,11 @@
+{
+  "name": "@bjfc/main",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/kit": "next",
+    "better-sqlite3": "^7.4.3",
+    "lodash": "^4.17.21"
+  }
+}

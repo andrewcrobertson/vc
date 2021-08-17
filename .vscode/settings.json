@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "files.associations": { "*.json": "jsonc" },
+  "files.exclude": {
+    "**/.gitattributes": true,
+    "**/.gitignore": true,
+    "**/node_modules": true,
+    "**/yarn.lock": true
+  },
+  "workbench.editor.enablePreview": false,
+  "[typescript]": { "editor.codeActionsOnSave": { "source.organizeImports": true } }
+}
